@@ -1,0 +1,28 @@
+{
+    "conversation_turns": [
+        {
+            "turn": 1,
+            "role": "User",
+            "message": "Hi, I need to cancel my appointment.",
+            "created_at": "2023-10-27T10:00:00Z"
+        },
+        {
+            "turn": 2,
+            "role": "AI/Chatbot",
+            "message": "I can help with that. Could you please provide your booking reference?",
+            "created_at": "2023-10-27T10:00:05Z"
+        },
+        {
+            "turn": 3,
+            "role": "User",
+            "message": "It's REF123. Can I get a refund if I cancel now?",
+            "created_at": "2023-10-27T10:00:30Z"
+        },
+        {
+            "turn": 4,
+            "role": "AI/Chatbot",
+            "message": "Yes, according to our policy, you can get a full refund if you cancel at least 24 hours before your appointment. Since your appointment is in 2 days, you are eligible for a full refund. Cancellations within 24 hours are subject to a 50% fee.",
+            "created_at": "2023-10-27T10:00:40Z"
+        }
+    ]
+}

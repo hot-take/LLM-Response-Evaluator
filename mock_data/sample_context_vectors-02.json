@@ -1,0 +1,26 @@
+{
+    "data": {
+        "vector_data": [
+            {
+                "id": "vec_101",
+                "text": "Cancellations made 24 hours prior to the scheduled time are eligible for a 100% refund. Late cancellations will incur a 50% charge.",
+                "source_url": "https://example.com/refund-policy",
+                "tokens": 25
+            },
+            {
+                "id": "vec_102",
+                "text": "Appointments can be rescheduled up to 12 hours before the slot without any penalty.",
+                "source_url": "https://example.com/reschedule",
+                "tokens": 18
+            }
+        ],
+        "sources": {
+            "vectors_used": [
+                "vec_101"
+            ],
+            "final_response": [
+                "Yes, according to our policy, you can get a full refund if you cancel at least 24 hours before your appointment."
+            ]
+        }
+    }
+}
